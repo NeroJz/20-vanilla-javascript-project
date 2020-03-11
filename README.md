@@ -14,7 +14,7 @@ This repo contains the 20 Vanilla JavaScript projects offered by [Udemy](https:/
 
 
 ## Authors
-* Brad Traversy - [~Instructor~](https://www.udemy.com/user/brad-traversy/)
+* Brad Traversy - [*Instructor*](https://www.udemy.com/user/brad-traversy/)
 
 
 ### Acknowledgements
