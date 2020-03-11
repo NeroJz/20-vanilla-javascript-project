@@ -1,6 +1,6 @@
 # Vanilla JavaScript Project
 
-#### Description
+## Description
 This repo contains the 20 Vanilla JavaScript projects offered by [Udemy](https://www.udemy.com/course/web-projects-with-vanilla-javascript/).
 
 
@@ -9,8 +9,12 @@ This repo contains the 20 Vanilla JavaScript projects offered by [Udemy](https:/
 * Web Browser
 
 
-### Projects
+## Projects
 * Form Validator Project
+
+
+## Authors
+* Brad Traversy - [~Instructor~](https://www.udemy.com/user/brad-traversy/)
 
 
 ### Acknowledgements
