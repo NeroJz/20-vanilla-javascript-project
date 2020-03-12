@@ -1,21 +1,28 @@
 # Vanilla JavaScript Project
 
 ## Description
-This repo contains the 20 Vanilla JavaScript projects offered by [Udemy](https://www.udemy.com/course/web-projects-with-vanilla-javascript/).
 
+This repo contains the 20 Vanilla JavaScript (JS) projects offered by [Udemy](https://www.udemy.com/course/web-projects-with-vanilla-javascript/).
+The purpose of these projects helps to build up fundamental JS knowledge without the use of any JS framework.
+In addition, it also provides chance to explore some CSS knowledge. Both CSS and JS are fundamental skills for Frontend Developer.
 
-#### Pre-requisite
-* JavaScript (ES6)
-* Web Browser
+#### Prerequisites
 
+To develop the Vanilla JS project, ensure you have these installed:
+
+- JavaScript (ES6)
+- Web Browser
+- Visual Code Editor
 
 ## Projects
-* Form Validator Project
 
+- Form Validator Project
+- Movie Seat Booking
 
 ## Authors
-* Brad Traversy - [*Instructor*](https://www.udemy.com/user/brad-traversy/)
 
+- Brad Traversy - [_Instructor_](https://www.udemy.com/user/brad-traversy/)
 
-### Acknowledgements
-* Special thanks to Brad Traversy and Udemy for offering this course.
+### Credits
+
+- Special thanks to Brad Traversy and Udemy for offering this course.
