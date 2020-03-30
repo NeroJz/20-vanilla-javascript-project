@@ -19,6 +19,9 @@ To develop the Vanilla JS project, ensure you have these installed:
 - Form Validator Project
 - Movie Seat Booking
 - Exchange Rate Calculator
+- Custom Video Player
+- Hangman
+- Meal Finder
 
 ## Authors
 
