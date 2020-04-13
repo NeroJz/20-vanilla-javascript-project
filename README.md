@@ -22,6 +22,10 @@ To develop the Vanilla JS project, ensure you have these installed:
 - Custom Video Player
 - Hangman
 - Meal Finder
+- Expense Tracker
+- Music Player
+- Menu Slider Modal
+- Infinite Scroll Blog
 
 ## Authors
 
