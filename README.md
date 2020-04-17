@@ -26,6 +26,9 @@ To develop the Vanilla JS project, ensure you have these installed:
 - Music Player
 - Menu Slider Modal
 - Infinite Scroll Blog
+- Speech Synthesis
+- Typing Game
+- Memory Cards
 
 ## Authors
 
