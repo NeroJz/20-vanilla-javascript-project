@@ -29,6 +29,7 @@ To develop the Vanilla JS project, ensure you have these installed:
 - Speech Synthesis
 - Typing Game
 - Memory Cards
+- Lyrics Search
 
 ## Authors
 
