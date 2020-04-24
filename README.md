@@ -30,6 +30,7 @@ To develop the Vanilla JS project, ensure you have these installed:
 - Typing Game
 - Memory Cards
 - Lyrics Search
+- Relaxer App
 
 ## Authors
 
