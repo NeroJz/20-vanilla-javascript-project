@@ -88,6 +88,22 @@ function drawBricks() {
   });
 }
 
+// Move ball
+function moveBall() {
+  ball.x += ball.dx;
+  ball.y += ball.dy;
+
+  // Wall collision (left / right)
+  if (ball.x + ball.size > canvas.width || ball.x - ball.size < 0) {
+    ball.dx *= -1;
+  }
+
+  // Wall collision (top / bottom)
+  if (ball.y + ball.size > canvas.height || ball.y - ball.size < 0) {
+    ball.dy *= -1;
+  }
+}
+
 // Move paddle on canvas
 function movePaddle() {
   paddle.x += paddle.dx;
@@ -116,6 +132,7 @@ function draw() {
 // Update canvas and redraw the UI
 function update() {
   movePaddle();
+  moveBall();
 
   // Draw everything
   draw();
