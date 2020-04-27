@@ -31,6 +31,8 @@ To develop the Vanilla JS project, ensure you have these installed:
 - Memory Cards
 - Lyrics Search
 - Relaxer App
+- Breakout App
+- New Year Countdown
 
 ## Authors
 
