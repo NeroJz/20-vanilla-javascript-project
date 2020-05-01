@@ -33,6 +33,8 @@ To develop the Vanilla JS project, ensure you have these installed:
 - Relaxer App
 - Breakout App
 - New Year Countdown
+- Guess Number with Speech Recognition
+- Dom Array Project
 
 ## Authors
 
